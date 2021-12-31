@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A module for the MagicMirror project which creates a table filled with a list gathered from a json request.",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^2.6.1"    
   }
 }
