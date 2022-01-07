@@ -29,7 +29,7 @@ Except `url` all options are optional.
 | animationSpeed | Speed of the update animation. (Milliseconds)<br>If you don't want that the module blinks during an update, set the value to `0`. <br><br>**Default value:** `500`<br> **Possible values:** `0` - `5000`
 | descriptiveRow | Complete html table row that will be added above the array data <br><br>**Default value:** `""`
 
-
+## Example
 
 Configuration:
 
