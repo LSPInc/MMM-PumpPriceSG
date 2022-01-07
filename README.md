@@ -3,7 +3,7 @@
 A module for the [MagicMirror²](https://github.com/MichMich/MagicMirror) project which creates a table filled with a list gathered from a json request.
 
 All the variables of the objects in the array are represented by a table column.
-The table shows the latest petrol pump prices in Singapore. n 
+The table shows the latest petrol pump prices in Singapore.
 
 ## Installation
 
