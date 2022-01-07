@@ -31,7 +31,7 @@ Except `url` all options are optional.
 
 ## Example
 
-![fuel price](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+![fuel price](https://github.com/lengsp/MMM-JsonTable/blob/master/fuel.jpg)
 
 
 Configuration:
