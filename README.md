@@ -31,6 +31,8 @@ Except `url` all options are optional.
 
 ## Example
 
+
+
 Configuration:
 
 ```javascript
