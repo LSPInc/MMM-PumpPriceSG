@@ -1,4 +1,4 @@
-# MMM-JsonTable
+# MMM-PumpPriceSG
 
 A module for the [MagicMirror²](https://github.com/MichMich/MagicMirror) project which creates a table filled with the latest petrol pump prices in Singapore.
 
