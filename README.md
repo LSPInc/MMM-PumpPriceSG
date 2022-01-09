@@ -1,15 +1,15 @@
 # MMM-JsonTable
 
-A module for the [MagicMirror²](https://github.com/MichMich/MagicMirror) project which creates a table filled with a list gathered from a json request.
+A module for the [MagicMirror²](https://github.com/MichMich/MagicMirror) project which creates a table filled with the latest petrol pump prices in Singapore.
 
 All the variables of the objects in the array are represented by a table column.
-The table shows the latest petrol pump prices in Singapore.
+
 
 ## Installation
 
 ```
-git clone https://github.com/lengsp/MMM-JsonTable
-cd MMM-JsonTable
+git clone https://github.com/lengsp/MMM-PumpPriceSG
+cd MMM-PumpPriceSG
 npm install
 ```
 
@@ -31,14 +31,14 @@ Except `url` all options are optional.
 
 ## Example
 
-![fuel price](https://github.com/lengsp/MMM-JsonTable/blob/master/fuel.jpg)
+![fuel price](https://github.com/lengsp/MMM-PumpPriceSG/blob/master/fuel.jpg)
 
 
 Configuration:
 
 ```javascript
 {
-	module: 'MMM-JsonTable',
+	module: 'MMM-PumpPriceSG',
 	position: 'top_right',
 	header: 'Singapore Fuel Price',
 	updateInterval: 3600000,
