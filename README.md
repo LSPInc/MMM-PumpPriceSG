@@ -1,9 +1,8 @@
-# MMM-PumpPriceSG
+# MMM-NEATide
 
-A module for the [MagicMirror²](https://github.com/MichMich/MagicMirror) project which creates a table filled with the latest petrol pump prices in Singapore.
+A module for the [MagicMirror²](https://github.com/MichMich/MagicMirror) project which creates a table filled with the latest tide timings from NEA Singapore.
 
 All the variables of the objects in the array are represented by a table column.
-
 
 ## Installation
 
